@@ -1,5 +1,19 @@
 # Twitter Bot
 
+         _/       \_
+        / |       | \
+       /  |__   __|  \
+      |__/((o| |o))\__|
+      |      | |      |
+      |\     |_|     /|
+      | \           / |
+       \| /  ___  \ |/
+        \ | / _ \ | /
+         \_________/
+          _|_____|_
+     ____|_________|____
+    /                   \
+
 ## Description
 
 Just a short program of how to build a free and very easy to code twitter bot - since it is free, you can only tweet quotes or pictures using it.
